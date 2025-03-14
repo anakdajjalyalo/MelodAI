@@ -1,0 +1,6 @@
+aiohttp>=3.8.0
+cloudscraper>=1.2.0
+beautifulsoup4>=4.9.3
+termcolor>=2.0.0
+eth-account>=0.5.9
+asyncio>=3.4.3
